@@ -16,6 +16,6 @@ Netch 是一款 Windows 平台的开源游戏加速工具，Netch 可以实现�
 ![](resources/screenshots/main.zh-CN.png)
 
 ## 依赖
-- [Microsoft Visual C++ 运行库合集](https://www.google.com/search?q=Visual+C%2B%2B+%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86)
+- [Visual C++ 运行库合集](https://www.google.com/search?q=Visual+C%2B%2B+%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86)
 - [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-offline-installer)
 - [TAP-Windows](https://build.openvpn.net/downloads/releases/tap-windows-9.21.2.exe)
