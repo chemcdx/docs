@@ -2,7 +2,7 @@
 
 - zh-CN
   - [主页]()
-  - 模式介绍
+  - 模式
     - [进程代理](docs/zh-CN/MODE/1.md)
     - [TUN/TAP 白名单](docs/zh-CN/MODE/2.md)
     - [TUN/TAP 黑名单](docs/zh-CN/MODE/3.md)
